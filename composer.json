@@ -1,5 +1,5 @@
 {
-    "name": "scottybo/laravel-google-my-business",
+    "name": "namidad/laravel-google-my-business",
     "description": "A package for Laravel which implements the Google My Business API",
     "keywords": ["google", "google my business", "laravel", "laravel5"],
     "license": "Apache-2.0",
